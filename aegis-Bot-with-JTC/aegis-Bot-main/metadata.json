@@ -1,0 +1,6 @@
+{
+  "name": "AegisBot — All-in-One Discord Bot Architect & Sandbox",
+  "description": "Production-ready modular Python discord.py 2.x bot suite with aiosqlite persistence, 4-category ticket system, dual DM transcripts, RBAC permissions, moderation, activity auto-roles, reaction roles, custom embed builder, local AI engine, music system, and live interactive Discord simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
